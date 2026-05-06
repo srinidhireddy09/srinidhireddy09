@@ -18,24 +18,23 @@
 
 ## 🧠 About
 
-Data Scientist with **6+ years** of experience building end-to-end machine learning solutions for Fortune 500 companies. Currently at **Goldman Sachs** leading NLP initiatives for regulatory intelligence.
+Data Scientist with **2+ years** of experience designing, deploying, and scaling production-grade Machine Learning, NLP, and Large Language Model (LLM) systems for Fortune 100 financial services clients. Currently pursuing **MS in Data Science** at Rowan University.
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
 │ 🎯 SPECIALIZATION                                           │
 │ ├── Predictive Modeling & Statistical Analysis              │
-│ ├── Natural Language Processing & Document AI               │
+│ ├── Natural Language Processing & Generative AI             │
 │ ├── Fraud Detection & Risk Scoring                          │
-│ └── Cloud-Scale Data Engineering (AWS, Databricks)          │
+│ └── MLOps & Cloud-Scale Data Engineering                    │
 │                                                             │
 │ 💼 EXPERIENCE                                               │
-│ ├── Goldman Sachs — Senior Data Scientist                   │
-│ ├── JPMorgan Chase & Co. — Data Scientist                   │
-│ └── UnitedHealth Group — Data Analyst                       │
+│ ├── Goldman Sachs — Data Scientist (Aug 2022 – Jul 2024)    │
+│ └── Rowan University — MS Data Science (May 2026)           │
 │                                                             │
 │ 🎓 EDUCATION                                                │
-│ ├── MS in Data Science — University of Michigan             │
-│ └── BTech in Computer Science — IIT Madras                  │
+│ ├── MS in Data Science — Rowan University, GPA 3.4/4.0      │
+│ └── Relevant Coursework: ML, Deep Learning, Big Data, NLP   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -48,6 +47,11 @@ Data Scientist with **6+ years** of experience building end-to-end machine learn
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+
+**NLP & Generative AI**
+
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **Cloud & MLOps**
 
@@ -65,27 +69,34 @@ Data Scientist with **6+ years** of experience building end-to-end machine learn
 
 | Project | Description | Impact |
 |---------|-------------|--------|
-| 🔍 **Real-Time Fraud Detection** | Ensemble ML pipeline (XGBoost + Isolation Forest) | $50M+ fraud prevented |
-| 📄 **NLP Document Intelligence** | Transformer-based regulatory document analysis | 1M+ docs processed |
-| 📉 **Customer Churn Prediction** | Deep learning early warning system | $12M annual savings |
-| 🏥 **Readmission Risk Model** | Predictive healthcare analytics | 87% accuracy |
+| 🔍 **Real-Time Fraud Detection** | Ensemble ML pipeline (XGBoost + Isolation Forest) on AWS | $50M+ fraud prevented |
+| 📄 **NLP Document Intelligence** | Transformer-based regulatory document analysis (BERT + RAG) | 1M+ docs at 94% F1 |
+| 📉 **Customer Churn Prediction** | Deep learning early warning system with SHAP explainability | $12M annual savings |
+| 🏦 **Credit Risk Scoring API** | FastAPI + LightGBM with sub-50ms p99 latency | SR 11-7 audit ready |
 
 ## 📊 Impact Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/6+-Years_Experience-00d4ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a" alt="Experience"/>
-  <img src="https://img.shields.io/badge/50+-ML_Models_Deployed-7c3aed?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0a0a0a" alt="Models"/>
-  <img src="https://img.shields.io/badge/15M+-Records_Analyzed-00d4ff?style=for-the-badge&logo=apachespark&logoColor=white&labelColor=0a0a0a" alt="Records"/>
-  <img src="https://img.shields.io/badge/99.2%25-Model_Accuracy-7c3aed?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a" alt="Accuracy"/>
+  <img src="https://img.shields.io/badge/2+-Years_Experience-00d4ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a" alt="Experience"/>
+  <img src="https://img.shields.io/badge/$50M+-Fraud_Prevented-7c3aed?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0a0a" alt="Fraud Prevented"/>
+  <img src="https://img.shields.io/badge/1M+-Docs_Processed-00d4ff?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0a0a0a" alt="Docs"/>
+  <img src="https://img.shields.io/badge/$12M-Annual_Savings-7c3aed?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0a0a0a" alt="Savings"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/$50M+-Fraud_Prevented-00d4ff?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0a0a0a" alt="Fraud Prevented"/>
-  <img src="https://img.shields.io/badge/1M+-Docs_Processed-7c3aed?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0a0a0a" alt="Docs"/>
-  <img src="https://img.shields.io/badge/$12M-Annual_Savings-00d4ff?style=for-the-badge&logo=databricks&logoColor=white&labelColor=0a0a0a" alt="Savings"/>
+  <img src="https://img.shields.io/badge/99.2%25-Model_Precision-00d4ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a" alt="Precision"/>
+  <img src="https://img.shields.io/badge/94%25-F1_Score-7c3aed?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0a0a0a" alt="F1 Score"/>
+  <img src="https://img.shields.io/badge/60%25-Deployment_Speedup-00d4ff?style=for-the-badge&logo=docker&logoColor=white&labelColor=0a0a0a" alt="Deployment"/>
 </p>
 
+## 🎓 Certifications
+
+* **AWS Certified Machine Learning – Specialty** — Amazon Web Services
+* **Databricks Certified Machine Learning Professional** — Databricks Academy
+* **Generative AI with Large Language Models, NLP & Deep Learning Specializations** — DeepLearning.AI / Coursera
+
 ## 🌐 Connect With Me
+
 
 <p align="center">
   <a href="mailto:srinidhi.sanikommu@email.com">
@@ -96,6 +107,10 @@ Data Scientist with **6+ years** of experience building end-to-end machine learn
   </a>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/srinidhireddy09/srinidhi-portfolio/main/assets/footer.svg" width="100%"/>
+  <img src="https://komarev.com/ghpvc/?username=srinidhireddy09&color=blue&style=flat" alt="profile views"/>
 </p>
+
+<p align="center">Thanks for visiting! 🚀</p>
